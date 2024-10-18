@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bandenawaz Diggi
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking for a job 
+- 🌱 I’m currently working as Data and Ai Trainee
 - 📫 How to reach me : mail - bandenawazdiggi786@gmail.com
 
 <!---
